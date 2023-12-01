@@ -12,7 +12,6 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
-    
     <a href="https://soliditylang.org/" target"_blank" rel_"noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="40" height="40"/>
     </a>
